@@ -1,1 +1,2 @@
-# ESP32_to_AWS_project
+# ESP32 microcontroller to AWS IoT Core
+## Overview
