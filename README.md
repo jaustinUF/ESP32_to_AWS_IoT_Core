@@ -1,6 +1,6 @@
 # ESP32 microcontroller to AWS IoT Core
 ## Overview
-This project uses an ESP32 microcontroller development board as the edge device. The AWS console setup is the same as in the *AWS IoT demo project.*
+This project uses an ESP32 microcontroller development board for the edge device. The AWS console setup is the same as in the *AWS IoT demo project.*
 ## ESP32
 ### Code installation
 The three files in the esp32_code directory are the C++ code for the ESP32. The Arduino IDE compiles these files, loads the resulting object file into the esp32, and causes it to run. Using auth/cert credentials in certs.h the ESP32 code:
